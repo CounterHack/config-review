@@ -16,7 +16,7 @@ Applies to: All
 
 The product must provide a mechanism to maintain the storage of logs over a certain period of time.
 
-> Election technology components should be designed to store audit logs for multiple significant events without losing any data. Logs should be retained for a minimum of 180 days with the option to archive logs for longer periods of time.
+> technology components should be designed to store audit logs for multiple significant events without losing any data. Logs should be retained for a minimum of 180 days with the option to archive logs for longer periods of time.
 
 Applies to: All
 
@@ -121,7 +121,7 @@ Applies to: All
 
 Enable system logging to include detailed information such as an event source, date, user, timestamp, source addresses, destination addresses, and other useful elements.
 
-> Election technology components particularly servers and those devices in publicly accessible network interfaces should capture detailed enough information to fully understand and reconstruct security incidents.
+> technology components particularly servers and those devices in publicly accessible network interfaces should capture detailed enough information to fully understand and reconstruct security incidents.
 
 Applies to: All
 

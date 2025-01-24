@@ -156,7 +156,7 @@ Applies to: All components
 
 Encrypt all sensitive information at rest.
 
->Election databases and their backups, for example, should be encrypted to ensure they are protected from manipulation.
+> databases and their backups, for example, should be encrypted to ensure they are protected from manipulation.
 
 Applies to: All components
 

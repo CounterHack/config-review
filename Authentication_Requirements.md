@@ -89,7 +89,7 @@ Method: Re-interpretation
 
 Use MFA via encrypted channels for all administrative account access.
 
->Election technology administrative accounts have tremendous capabilities to do harm if taken over through a social engineering or other attack. Protecting them with MFA is extremely important.
+> technology administrative accounts have tremendous capabilities to do harm if taken over through a social engineering or other attack. Protecting them with MFA is extremely important.
 
 
 ### Ensure Authentication is centrally managed

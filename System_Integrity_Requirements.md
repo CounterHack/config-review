@@ -96,7 +96,7 @@ Applies to: All
 
 Limit access to scripting tools (such as Microsoft PowerShell and Python) to only administrative or development users with the need to access those capabilities.
 
-> Election technology may make use of these technologies, but access to them should be limited to only the most trusted and protected accounts.
+> technology may make use of these technologies, but access to them should be limited to only the most trusted and protected accounts.
 
 Applies to: All
 

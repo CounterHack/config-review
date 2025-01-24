@@ -6,7 +6,7 @@
 
 Deny communications with known malicious or unused Internet IP addresses. Limit access to trusted and necessary IP address ranges at each of the organization's application and network boundaries.
 
->This can be done using a network firewall at the perimeter of your network. Preventing access from known malicious IP addresses can be done for all applications, even public facing ones. The Election Infrastructure Information Sharing and Analysis Center (EI-ISAC) provides list of known malicious IP addresses.
+>This can be done using a network firewall at the perimeter of your network. Preventing access from known malicious IP addresses can be done for all applications, even public facing ones. The Infrastructure Information Sharing and Analysis Center (EI-ISAC) provides list of known malicious IP addresses.
 
 Applies to: Hosted components
 
@@ -16,7 +16,7 @@ Applies to: Hosted components
 
 Deny communication over unauthorized transportation control protocol (TCP) or user datagram protocol (UDP) ports or application traffic to ensure that only authorized protocols are allowed to cross each of the organization's network boundaries.
 
->Election system boundaries should be configured to deny traffic on all ports except ports explicitly needed for legitimate traffic.
+> system boundaries should be configured to deny traffic on all ports except ports explicitly needed for legitimate traffic.
 
 Applies to: Hosted components
 
@@ -26,7 +26,7 @@ Applies to: Hosted components
 
 Deploy network-based Intrusion Detection Systems (IDS) sensors to look for unusual attack mechanisms and detect compromise of these systems at each of the organization's network boundaries.
 
->The EI-ISAC and the Albert sensors together capture and monitor networks traffic of jurisdictions. Election technology deployed outside of the jurisdictions' network should have a similar technology deployed and monitored.
+>The EI-ISAC and the Albert sensors together capture and monitor networks traffic of jurisdictions. technology deployed outside of the jurisdictions' network should have a similar technology deployed and monitored.
 
 Applies to: Hosted components
 
@@ -213,7 +213,7 @@ Applies to: On-prem components
 
 By applying an allowlist of known trusted IP addresses this allows organizations to greatly reduce their attack surface.
 
->This can be done using a network firewall at the perimeter of your network. Preventing access from known malicious IP addresses can be done for all applications, even public facing ones. The Election Infrastructure Information Sharing and Analysis Center (EI-ISAC) provides list of known malicious IP addresses.
+>This can be done using a network firewall at the perimeter of your network. Preventing access from known malicious IP addresses can be done for all applications, even public facing ones. The Infrastructure Information Sharing and Analysis Center (EI-ISAC) provides list of known malicious IP addresses.
 
 Applies to: Hosted components
 
